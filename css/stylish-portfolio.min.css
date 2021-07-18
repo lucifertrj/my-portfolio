@@ -24,11 +24,11 @@ body {
 }
 
 .content-section-heading h2 {
-    font-size: 1.5rem
+    font-size: 1.3rem
 }
 
 .content-section-heading h3 {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     text-transform: uppercase
 }
 
@@ -96,7 +96,7 @@ h6 {
     letter-spacing: 2px;
     animation: typing 3s steps(25, end) infinite, blink .2s step-end infinite;
     white-space: nowrap;
-    font-size: 30px;
+    font-size: 24px;
     font-weight: 700;
     border-right: 4px solid orange;
     box-sizing: border-box;
