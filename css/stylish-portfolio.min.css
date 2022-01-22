@@ -249,7 +249,7 @@ h6 {
 
 .callout {
     padding: 15rem 0;
-    background: linear-gradient(90deg, rgba(255, 255, 255, .1) 0, rgba(255, 255, 255, .1) 100%), url(../img/blog_img.jpeg);
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1) 0, rgba(255, 255, 255, .1) 100%), url(../img/bg_blog.gif);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
